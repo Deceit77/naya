@@ -54,6 +54,7 @@ function App() {
       {showSignupForm && <SignupForm />}
 
       <ItemGrid images={images} />
+      <h1>hello</h1>
     </div>
   );
 }
